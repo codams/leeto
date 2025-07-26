@@ -1,0 +1,189 @@
+{
+  "gift-cards": [
+    {
+      "id": 1,
+      "name": "Carte cadeaux Noël 2023",
+      "description": "Votre CSE vous offre une carte cadeaux pour Noël.",
+      "openingDate": "2023-12-01",
+      "closingDate": "2024-12-01",
+      "allowedAmount": 120,
+      "consumedAmount": 120,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 120,
+            "consumedAmount": 120
+          }
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Carte cadeaux vacances d‘été",
+      "description": "Votre CSE vous offre une carte cadeaux pour vos vacances d‘été.",
+      "openingDate": "2024-06-01",
+      "closingDate": "2024-10-01",
+      "allowedAmount": 60,
+      "consumedAmount": 60,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 30,
+            "consumedAmount": 30
+          }
+        },
+        {
+          "id": 2,
+          "type": "companion",
+          "firstName": "Yennefer",
+          "consumption": {
+            "allowedAmount": 30,
+            "consumedAmount": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Carte cadeaux Noël 2024",
+      "description": "Votre CSE vous offre une carte cadeaux pour Noël.",
+      "openingDate": "2024-12-01",
+      "closingDate": "2025-12-01",
+      "allowedAmount": 150,
+      "consumedAmount": 100,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 150,
+            "consumedAmount": 100
+          }
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Carte cadeaux culture & sport",
+      "description": "Votre CSE vous offre une carte cadeaux pour la culture et le sport.",
+      "openingDate": "2025-02-12",
+      "closingDate": "2025-10-01",
+      "allowedAmount": 100,
+      "consumedAmount": 50,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 50,
+            "consumedAmount": 20
+          }
+        },
+        {
+          "id": 2,
+          "type": "companion",
+          "firstName": "Yennefer",
+          "consumption": {
+            "allowedAmount": 50,
+            "consumedAmount": 30
+          }
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Carte cadeaux famille",
+      "description": "Votre CSE vous offre une carte cadeaux pour toute la famille.",
+      "openingDate": "2025-03-03",
+      "closingDate": "2025-11-11",
+      "allowedAmount": 100,
+      "consumedAmount": 80,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 50,
+            "consumedAmount": 30
+          }
+        },
+        {
+          "id": 2,
+          "type": "companion",
+          "firstName": "Yennefer",
+          "consumption": {
+            "allowedAmount": 25,
+            "consumedAmount": 25
+          }
+        },
+        {
+          "id": 3,
+          "type": "child",
+          "firstName": "Cirilla",
+          "consumption": {
+            "allowedAmount": 25,
+            "consumedAmount": 25
+          }
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Carte cadeaux naissance",
+      "description": "Votre CSE vous offre une carte cadeaux pour la naissance de votre enfant.",
+      "openingDate": "2025-04-01",
+      "closingDate": "2025-04-01",
+      "allowedAmount": 50,
+      "consumedAmount": 0,
+      "beneficiaries": [
+        {
+          "id": 3,
+          "type": "child",
+          "firstName": "Cirilla",
+          "consumption": {
+            "allowedAmount": 50,
+            "consumedAmount": 0
+          }
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Carte cadeaux jeux vidéo",
+      "description": "Votre CSE vous offre une carte cadeaux pour les jeux vidéo.",
+      "openingDate": "2025-05-01",
+      "closingDate": "2025-05-01",
+      "allowedAmount": 120,
+      "consumedAmount": 35,
+      "beneficiaries": [
+        {
+          "id": 1,
+          "type": "user",
+          "firstName": "Geralt",
+          "consumption": {
+            "allowedAmount": 60,
+            "consumedAmount": 35
+          }
+        },
+        {
+          "id": 2,
+          "type": "companion",
+          "firstName": "Yennefer",
+          "consumption": {
+            "allowedAmount": 60,
+            "consumedAmount": 0
+          }
+        }
+      ]
+    }
+  ]
+}
