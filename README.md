@@ -1,6 +1,6 @@
 ## Leeto
 
-### J'ai installé vite et pas pris le temps de faire la conf propre de json-server donc il faut lancer les 2 commandes en simultanés :
+### J'ai installé `vite`, il faut lancer les 2 commandes en simultanés :
 
 > yarn start
 
@@ -10,8 +10,4 @@ Il y a un petit test pour une fonction d'helper
 
 > yarn test
 
-Et storybook sur une barre de progress
-
-> yarn storybook
-
-Le tout aurait besoin d'une bonne refacto du côté des composants.
+Storybook a des soucis avec mon env actuel (windows + répertoire différents de C:/ + yarn), j'ai testé l'alpha qui devait fix ça mais c'est pas encore tout à fait ok :(
