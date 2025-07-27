@@ -1,6 +1,6 @@
 ## Leeto
 
-### J'ai installé `vite`, il faut lancer les 2 commandes en simultanés :
+### J'ai installé `vite`, il faut lancer les 2 commandes en simultanées :
 
 > yarn start
 
